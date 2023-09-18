@@ -1,0 +1,70 @@
+#test1{
+    background-color:rgb(140, 140, 236);
+    
+    
+}
+.text{
+    color:white;
+}
+#bio{
+    width: 400px;
+    height: 400px ;
+}
+#quiz{
+    background-color: yellowgreen;
+    background-size: cover;
+}
+#q1{
+    background-color: aquamarine;
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+}
+#q2{
+    background-color: rgb(229, 229, 121);
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+}
+
+#q3{
+    background-color: rgb(90, 203, 101);
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+}
+
+#q4{
+    background-color: rgb(217, 115, 217);
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+}
+
+#q5{
+    background-color: rgb(65, 198, 225);
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+}
+#end{
+    background-color: rgb(255, 136, 0);
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+}
+#bio{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
